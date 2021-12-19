@@ -1,0 +1,11 @@
+.vscode
+.DS_Store
+venv
+.cache
+test
+.ipynb_checkpoints
+02_EO_Lake_Bilancino
+03_EO_River_Arno_1
+03_EO_River_Arno_2
+03_EO_River_Arno_3
+~$*
